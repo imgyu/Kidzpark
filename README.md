@@ -8,17 +8,6 @@
 <br />
 <hr />
   
-# <div align="center"> 📚 Use Main-Stack Skill 📚 </div>
-<div align="center">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-</div> 
-<br />
-<hr />
-
 # <div align="center"> 팀소개 </div>
 <div align="center">
 <img src="/img/2023-11-28 16 20 58.png">
