@@ -1,7 +1,7 @@
 
-# <div align="center"> 🌈 Wine Story 🌈 </div>
+# <div align="center"> 👶 KidzPark 👶 </div>
 <br />
-<div align="center"> 🌈 프로젝트 기간 : 23-11-06 ~ 23-11-27
+<div align="center"> 🚀 프로젝트 기간 : 23-11-06 ~ 23-11-27
 <h3 align="center">조장 :  김영준</h3>
 <h3 align="center">조원 :  조영태</h3>
 <h3 align="center">조원 :  김임규</h3>
