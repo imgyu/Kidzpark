@@ -18,9 +18,8 @@
 
 # <div align="center"> 기획 의도 </div>
 <div align="center">
-<img src="/img/2023-11-28 16 21 28.png" width: 100px>
-<img src="/img/2023-11-28 16 21 42.png" width: 100px>
-<img src="/img/2023-11-28 16 22 02.png" width: 100px>
+<img src="/img/2023-11-28 16 21 28.png" width="400px"> <img src="/img/2023-11-28 16 21 42.png" width="400px">
+<img src="/img/2023-11-28 16 22 02.png" width="400px">
 </div>
 <br />
 <hr />
