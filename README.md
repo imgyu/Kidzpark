@@ -21,7 +21,7 @@
 
 # <div align="center"> 팀소개 </div>
 <div align="center">
-<img src="/image/2023-11-28 16 20 58.png">
+<img src="/img/2023-11-28 16 20 58.png">
 </div>
 <br />
 <hr />
@@ -29,37 +29,37 @@
 
 # <div align="center"> 기획 의도 </div>
 <div align="center">
-<img src="/image/2023-11-28 16 21 28.png">
-<img src="/image/2023-11-28 16 21 42.png">
-<img src="/image/2023-11-28 16 22 02.png">
+<img src="/img/2023-11-28 16 21 28.png">
+<img src="/img/2023-11-28 16 21 42.png">
+<img src="/img/2023-11-28 16 22 02.png">
 </div>
 <br />
 <hr />
 
 # <div align="center"> 기획 일정 </div>
 <div align="center">
-<img src="/image/2023-11-28 16 22 53.png">
+<img src="/img/2023-11-28 16 22 53.png">
 </div>
 <br />
 <hr />
 
 # <div align="center"> 요구사항 정의서 </div>
 <div align="center">
-<img src="/image/2023-11-28 16 23 02.png">
+<img src="/img/2023-11-28 16 23 02.png">
 </div>
 <br />
 <hr />
 
 # <div align="center"> ERD </div>
 <div align="center">
-<img src="/image/2023-11-28 16 23 17.png">
+<img src="/img/2023-11-28 16 23 17.png">
 </div>
 <br />
 <hr />
 
 # <div align="center"> 개발 환경 </div>
 <div align="center">
-<img src="/image/2023-11-28 16 22 18.png">
+<img src="/img/2023-11-28 16 22 18.png">
 </div>
 <br />
 <hr />
@@ -67,14 +67,14 @@
 
 # <div align="center"> 주요기능 </div>
 <div align="center">
-<img src="/image/2023-11-28 16 23 33.png">
+<img src="/img/2023-11-28 16 23 33.png">
 </div>
 <br />
 <hr />
 
 # <div align="center"> 개선 및 보완사항 </div>
 <div align="center">
-<img src="/image/2023-11-28 16 23 49.png">
+<img src="/img/2023-11-28 16 23 49.png">
 </div>
 <br />
 <hr />
