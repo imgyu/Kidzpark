@@ -10,7 +10,7 @@
   
 # <div align="center"> 팀소개 </div>
 <div align="center">
-<img src="/img/2023-11-28 16 20 58.png">
+<img src="/parkimg/2023-11-28 16 20 58.png">
 </div>
 <br />
 <hr />
@@ -18,8 +18,8 @@
 
 # <div align="center"> 기획 의도 </div>
 <div align="center">
-<img src="/img/2023-11-28 16 21 28.png" width="400px"> <img src="/img/2023-11-28 16 21 42.png" width="400px">
-<img src="/img/2023-11-28 16 22 02.png" width="400px">
+<img src="/parkimgimg/2023-11-28 16 21 28.png" width="400px"> <img src="/img/2023-11-28 16 21 42.png" width="400px">
+<img src="/parkimgimg/2023-11-28 16 22 02.png" width="400px">
 </div>
 <br />
 <hr />
@@ -71,43 +71,70 @@
 
 # <div align="center"> 기획 일정 </div>
 <div align="center">
-<img src="/img/2023-11-28 16 22 53.png">
+<img src="/parkimg/2023-11-28 16 22 53.png">
 </div>
 <br />
 <hr />
 
 # <div align="center"> 요구사항 정의서 </div>
 <div align="center">
-<img src="/img/2023-11-28 16 23 02.png">
+<img src="/parkimg/2023-11-28 16 23 02.png">
 </div>
 <br />
 <hr />
 
 # <div align="center"> ERD </div>
 <div align="center">
-<img src="/img/2023-11-28 16 23 17.png">
+<img src="/parkimg/2023-11-28 16 23 17.png">
 </div>
 <br />
 <hr />
 
 # <div align="center"> 개발 환경 </div>
 <div align="center">
-<img src="/img/2023-11-28 16 22 18.png">
+<img src="/parkimg/2023-11-28 16 22 18.png">
 </div>
 <br />
 <hr />
 
-# <div align="center"> 🎨 UI </div>
-<div align="center">
+## 🎨 UI 
+|로그인 | 회원가입 |
+|---|---|---|
+|![로그인]<img src="/parkimg/2023-11-29 09 57 56.png">|![회원가입]<img src="/parkimg/2023-11-29 09 58 26.png">|
 
+|메인화면|
+|---|---|---|
+|![메인화면]<img src="/parkimg/2023-11-29 09 53 29.png">|
 
+|예스키즈존|
+|---|---|---|
+|![예스키즈존]<img src="/parkimg/2023-11-29 09 54 24.png">|![매장정보]<img src="/parkimg/2023-11-29 09 56 03.png">|![댓글]<img src="/parkimg/2023-11-29 09 54 58.png">|
 
-</div>
+|게시판|
+|---|---|---|
+|![게시판]<img src="/parkimg/2023-11-29 09 55 33.png">|![게시판 내용]<img src="/parkimg/2023-11-29 09 54 58.png">|![리뷰]<img src="/parkimg/2023-11-29 09 56 20.png">|
+
+|채팅|
+|---|---|---|
+|![채팅방 목록]<img src="/parkimg/2023-11-29 09 56 54.png">|![채팅방]<img src="/parkimg/2023-11-29 09 56 42.png">|
+
+|고객센터|
+|---|---|---|
+|![고객센터 목록]<img src="/parkimg/2023-11-29 09 57 06.png">|![고객센터]<img src="/parkimg/2023-11-29 09 57 23.png">|![답변 내용]<img src="/parkimg/2023-11-29 09 57 34.png">|
+
+|아이디 및 비밀번호 찾기 | 내가 쓴글 | 관심매장 목록 |
+|---|---|---|
+|![찾기]<img src="/parkimg/2023-11-29 09 58 45.png"><img src="/parkimg/2023-11-29 09 58 54.png">|![내가쓴글]<img src="/parkimg/2023-11-29 09 59 20.png">|![관심매장 목록]<img src="/parkimg/2023-11-29 09 59 32.png">|
+
+|관리자|
+|---|---|---|
+|![예스키즈존 관리]<img src="/parkimg/2023-11-29 09 59 54.png">|![게시판 관리]<img src="/parkimg/2023-11-29 10 00 06.png">|![고객센터]<img src="/parkimg/2023-11-29 10 00 15.png">|![유저목록]<img src="/parkimg/2023-11-29 10 13 45.png">|
+
 
 
 # <div align="center"> 개선 및 보완사항 </div>
 <div align="center">
-<img src="/img/2023-11-28 16 23 49.png">
+<img src="/parkimg/2023-11-28 16 23 49.png">
 </div>
 <br />
 <hr />
