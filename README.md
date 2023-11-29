@@ -136,7 +136,7 @@
 <br />
 
 ### [게시판 내용]
-<img src="/parkimg/2023-11-29 09 54 58.png" width="400px">
+<img src="/parkimg/2023-11-29 09 56 03.png" width="400px">
 <br />
 
 ### [댓글]
@@ -171,10 +171,11 @@
 
 ### [찾기]
 <img src="/parkimg/2023-11-29 09 58 45.png" width="400px">
+<img src="/parkimg/2023-11-29 09 58 54.png" width="400px">
 <br />
 
 ### [내가 쓴 글]
-<img src="/parkimg/2023-11-29 09 58 54.png" width="400px">
+<img src="/2023-11-29 09 59 20.png" width="400px">
 <br />
 
 ### [관심매장 목록]
