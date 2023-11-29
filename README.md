@@ -102,7 +102,7 @@
 ## 로그인 | 회원가입
 
 ### [로그인]
-<img src="/parkimg/2023-11-29 09 57 56.png" width="400px">
+<img src="/parkimg/2023-11-29 14 06 22.png" width="400px">
 <br />
 
 ### [회원가입]
@@ -122,7 +122,7 @@
 <br />
 
 ### [매장정보]
-<img src="/parkimg/2023-11-29 09 54 58.png" width="400px">
+<img src="/parkimg/2023-11-29 14 07 41.png" width="400px">
 <br />
 
 ### [리뷰]
@@ -132,7 +132,7 @@
 ## 게시판
 
 ### [게시판]
-<img src="/parkimg/2023-11-29 09 55 33.png" width="400px">
+<img src="/parkimg/2023-11-29 14 08 00.png" width="400px">
 <br />
 
 ### [게시판 내용]
