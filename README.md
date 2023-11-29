@@ -18,7 +18,7 @@
 
 # <div align="center"> 기획 의도 </div>
 <div align="center">
-<img src="/parkimgimg/2023-11-28 16 21 28.png" width="400px"> <img src="/img/2023-11-28 16 21 42.png" width="400px">
+<img src="/parkimgimg/2023-11-28 16 21 28.png" width="400px"> <img src="/parkimgimg/2023-11-28 16 21 42.png" width="400px">
 <img src="/parkimgimg/2023-11-28 16 22 02.png" width="400px">
 </div>
 <br />
@@ -97,38 +97,32 @@
 <br />
 <hr />
 
-## 🎨 UI 
-|로그인 | 회원가입 |
-|---|---|---|
-|![로그인]<img src="/parkimg/2023-11-29 09 57 56.png">|![회원가입]<img src="/parkimg/2023-11-29 09 58 26.png">|
+# <div align="center"> 🎨 UI </div>
+## 로그인 | 회원가입 
 
-|메인화면|
-|---|---|---|
-|![메인화면]<img src="/parkimg/2023-11-29 09 53 29.png">|
+# [로그인]<img src="/parkimg/2023-11-29 09 57 56.png" width="300px"> <br /> # [회원가입]<img src="/parkimg/2023-11-29 09 58 26.png" width="300px">
 
-|예스키즈존|
-|---|---|---|
-|![예스키즈존]<img src="/parkimg/2023-11-29 09 54 24.png">|![매장정보]<img src="/parkimg/2023-11-29 09 56 03.png">|![댓글]<img src="/parkimg/2023-11-29 09 54 58.png">|
+## 메인화면
 
-|게시판|
-|---|---|---|
-|![게시판]<img src="/parkimg/2023-11-29 09 55 33.png">|![게시판 내용]<img src="/parkimg/2023-11-29 09 54 58.png">|![리뷰]<img src="/parkimg/2023-11-29 09 56 20.png">|
+# [메인화면]<img src="/parkimg/2023-11-29 09 53 29.png" width="300px">
 
-|채팅|
-|---|---|---|
-|![채팅방 목록]<img src="/parkimg/2023-11-29 09 56 54.png">|![채팅방]<img src="/parkimg/2023-11-29 09 56 42.png">|
+## 예스키즈존
+# [예스키즈존]<img src="/parkimg/2023-11-29 09 54 24.png" width="300px"> <br /> # [매장정보]<img src="/parkimg/2023-11-29 09 56 03.png" width="300px"> <br /> # [댓글]<img src="/parkimg/2023-11-29 09 54 58.png" width="300px">
 
-|고객센터|
-|---|---|---|
-|![고객센터 목록]<img src="/parkimg/2023-11-29 09 57 06.png">|![고객센터]<img src="/parkimg/2023-11-29 09 57 23.png">|![답변 내용]<img src="/parkimg/2023-11-29 09 57 34.png">|
+## 게시판
+# [게시판]<img src="/parkimg/2023-11-29 09 55 33.png" width="300px"> <br /> # [게시판 내용]<img src="/parkimg/2023-11-29 09 54 58.png" width="300px"> <br /> # [리뷰]<img src="/parkimg/2023-11-29 09 56 20.png" width="300px">
 
-|아이디 및 비밀번호 찾기 | 내가 쓴글 | 관심매장 목록 |
-|---|---|---|
-|![찾기]<img src="/parkimg/2023-11-29 09 58 45.png"><img src="/parkimg/2023-11-29 09 58 54.png">|![내가쓴글]<img src="/parkimg/2023-11-29 09 59 20.png">|![관심매장 목록]<img src="/parkimg/2023-11-29 09 59 32.png">|
+## 채팅
+# [채팅방 목록]<img src="/parkimg/2023-11-29 09 56 54.png" width="300px"> <br /> # ![채팅방]<img src="/parkimg/2023-11-29 09 56 42.png" width="300px">
 
-|관리자|
-|---|---|---|
-|![예스키즈존 관리]<img src="/parkimg/2023-11-29 09 59 54.png">|![게시판 관리]<img src="/parkimg/2023-11-29 10 00 06.png">|![고객센터]<img src="/parkimg/2023-11-29 10 00 15.png">|![유저목록]<img src="/parkimg/2023-11-29 10 13 45.png">|
+## 고객센터
+# [고객센터 목록]<img src="/parkimg/2023-11-29 09 57 06.png" width="300px"> <br /> # [고객센터]<img src="/parkimg/2023-11-29 09 57 23.png" width="300px"> <br /> # [답변 내용]<img src="/parkimg/2023-11-29 09 57 34.png" width="300px">
+
+## 아이디 및 비밀번호 찾기 | 내가 쓴글 | 관심매장 목록 
+# [찾기]<img src="/parkimg/2023-11-29 09 58 45.png" width="300px"> <br /> <img src="/parkimg/2023-11-29 09 58 54.png" width="300px"># [내가쓴글]<img src="/parkimg/2023-11-29 09 59 20.png" width="300px"> <br /> # [관심매장 목록]<img src="/parkimg/2023-11-29 09 59 32.png" width="300px">
+
+## 관리자
+# [예스키즈존 관리]<img src="/parkimg/2023-11-29 09 59 54.png" width="300px"> <br /> # [게시판 관리]<img src="/parkimg/2023-11-29 10 00 06.png" width="300px"> <br /> [고객센터]<img src="/parkimg/2023-11-29 10 00 15.png" width="300px"> <br /> # [유저목록]<img src="/parkimg/2023-11-29 10 13 45.png" width="300px">
 
 
 
