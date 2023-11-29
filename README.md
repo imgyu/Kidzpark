@@ -102,7 +102,7 @@
 ## 로그인 | 회원가입
 
 ### [로그인]
-<img src="/parkimg/2023-11-29 14 06 22.png" width="400px">
+<img src="/parkimg/2023-11-29 14 06 22.png" width="500px">
 <br />
 
 ### [회원가입]
@@ -126,13 +126,13 @@
 <br />
 
 ### [리뷰]
-<img src="/parkimg/2023-11-29 09 55 18.png" width="400px">
+<img src="/parkimg/2023-11-29 09 55 18.png" width="500px">
 <br />
 
 ## 게시판
 
 ### [게시판]
-<img src="/parkimg/2023-11-29 14 08 00.png" width="400px">
+<img src="/parkimg/2023-11-29 14 08 00.png" width="500px">
 <br />
 
 ### [게시판 내용]
@@ -146,17 +146,17 @@
 ## 채팅
 
 ### [채팅방 목록]
-<img src="/parkimg/2023-11-29 09 56 54.png" width="400px">
+<img src="/parkimg/2023-11-29 09 56 54.png" width="500px">
 <br />
 
 ### [채팅방]
-<img src="/parkimg/2023-11-29 09 56 42.png" width="400px">
+<img src="/parkimg/2023-11-29 09 56 42.png" width="500px">
 <br />
 
 ## 고객센터
 
 ### [고객센터 목록]
-<img src="/parkimg/2023-11-29 09 57 06.png" width="400px">
+<img src="/parkimg/2023-11-29 09 57 06.png" width="500px">
 <br />
 
 ### [고객센터]
@@ -175,11 +175,11 @@
 <br />
 
 ### [내가 쓴 글]
-<img src="/parkimg/2023-11-29 09 59 20.png" width="400px">
+<img src="/parkimg/2023-11-29 09 59 20.png" width="500px">
 <br />
 
 ### [관심매장 목록]
-<img src="/parkimg/2023-11-29 09 59 32.png" width="400px">
+<img src="/parkimg/2023-11-29 09 59 32.png" width="500px">
 <br />
 
 ## 관리자
@@ -189,15 +189,15 @@
 <br />
 
 ### [게시판 관리]
-<img src="/parkimg/2023-11-29 10 00 06.png" width="400px">
+<img src="/parkimg/2023-11-29 10 00 06.png" width="500px">
 <br />
 
 ### [고객센터 관리]
-<img src="/parkimg/2023-11-29 10 00 15.png" width="400px">
+<img src="/parkimg/2023-11-29 10 00 15.png" width="500px">
 <br />
 
 ### [유저 목록]
-<img src="/parkimg/2023-11-29 10 13 45.png" width="400px">
+<img src="/parkimg/2023-11-29 10 13 45.png" width="500px">
 
 
 
