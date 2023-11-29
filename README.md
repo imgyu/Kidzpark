@@ -24,8 +24,8 @@
 <br />
 <hr />
 
-##<div align="center"> 📱 구현 기능 </div>
-<div align="center">
+## <div align="center"> 📱 구현 기능 </div>
+<div align="left">
 - 🔐 계정
   - 로그인 / 로그아웃
   - 회원가입
