@@ -122,11 +122,11 @@
 <br />
 
 ### [매장정보]
-<img src="/parkimg/2023-11-29 09 56 03.png" width="400px">
+<img src="/parkimg/2023-11-29 09 54 58.png" width="400px">
 <br />
 
-### [댓글]
-<img src="/parkimg/2023-11-29 09 54 58.png" width="400px">
+### [리뷰]
+<img src="/parkimg/2023-11-29 09 55 18.png" width="400px">
 <br />
 
 ## 게시판
@@ -139,7 +139,7 @@
 <img src="/parkimg/2023-11-29 09 54 58.png" width="400px">
 <br />
 
-### [리뷰]
+### [댓글]
 <img src="/parkimg/2023-11-29 09 56 20.png" width="400px">
 <br />
 
